@@ -32,7 +32,7 @@ public class Mensagens {
 		System.out.println("As mensagens vão ser enviadas em 5 segundos");
 		Thread.sleep(1);
 
-		while (contador <= 1000000000) {
+		while (contador <= 10) {
 
 			Thread.sleep(1000);
 
